@@ -12,7 +12,7 @@ create and open a new folder
 Clone the repo
 
 ```
-git clone https://github.com/thiernomoudou/edu-ERP.git
+git clone https://github.com/AfreeLabs/Uerp.git
 
 ```
 
